@@ -60,7 +60,7 @@ Examples of harassment includes, but is not limited to:
   
   
 
-If while working with MOCTO you would like to discuss a concern, , please contact Alexis Wichowski ([awichowski@cto.nyc.gov](mailto:awichowski@cto.nyc.gov)), Katherine Benjamin ([Kbenjamin@cto.nyc.gov](mailto:Kbenjamin@cto.nyc.gov)), or Jessica Cole ([jessica@usdigitalresponse.org](mailto:jessica@usdigitalresponse.org)).
+If while working with MOCTO you would like to discuss a concern, please contact Alexis, Katherine, or Jessica.
 
   
 

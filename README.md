@@ -6,10 +6,10 @@
 TL;DR: Be kind. Be mindful. Be Inclusive.  
   
 
-The NYC[x] Innovation Fellows cohorts consist of people from diverse backgrounds to ensure that the solutions developed by MOCTO reflect the diversity of people in New York City. Each Fellow brings a unique perspective to the table and we value that perspective.  
+Fellows in the NYC Mayor's Office of the Chief Technology Officer consist of people from diverse backgrounds to ensure that the solutions developed by MOCTO reflect the diversity of people in New York City. Each Fellow brings a unique perspective to the table and we value that perspective.  
   
 
-Cultivating a healthy work culture is an important component of MOCTO’s vision for the NYC[x] Innovation Fellows program. To ensure that Fellows have a rewarding experience, we need agreement on how we relate to each other during our short but intense sprints.  
+Cultivating a healthy work culture is an important component of MOCTO’s vision for all of our Fellows programs. To ensure that Fellows have a rewarding experience, we need agreement on how we relate to each other during our short but intense sprints.  
   
 
 As a Fellow, you agree to the following:
@@ -60,10 +60,10 @@ Examples of harassment includes, but is not limited to:
   
   
 
-If while working with MOCTO you would like to discuss a concern, please contact Alexis, Katherine, or Jessica.
+If while working with MOCTO you would like to discuss a concern, please contact your MOCTO supervisor, or their manager. 
 
   
 
 #### Celebrate yourself and each other!
 
-This cohort of NYC[x] Innovation Fellows will be successful because of your desire to serve New Yorkers during the COVID-19 pandemic. From thanking people directly, to emoji high-fiving , every action taken in this program is an act of service in making tech work for all New Yorkers. These efforts deserve appreciation, recognition, and gratitude. Thank you for joining MOCTO- we are excited to collaborate with you!
+Your cohort of Fellows will be successful because of your desire to serve New Yorkers. From thanking people directly, to emoji high-fiving , every action taken in this program is an act of service in making tech work for all New Yorkers. These efforts deserve appreciation, recognition, and gratitude. Thank you for joining MOCTO- we are excited to collaborate with you!
